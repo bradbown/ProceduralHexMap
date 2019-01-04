@@ -1,0 +1,9 @@
+
+*.yaml
+*.log
+*.yaml
+*.bakert
+Temp/UnityLockfile
+Library/gfu/cache/gituser.yaml
+Library/gfu/cache/gittrackingstatus.yaml
+Library/gfu/cache/gitstatusentries.yaml
